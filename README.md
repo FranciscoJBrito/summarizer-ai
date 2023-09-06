@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Summe App IA es una aplicación web que te permite resumir artículos de manera rápida y efectiva gracias a la potente [Article Extractor and Summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer). Nuestra misión es simplificar el proceso de lectura y extracción de información clave de artículos extensos para que puedas acceder a la esencia de la información de manera eficiente.
+Summe App IA es una aplicación web que permite resumir artículos de manera rápida y efectiva gracias a [Article Extractor and Summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).
 
 ## Tecnología
 
