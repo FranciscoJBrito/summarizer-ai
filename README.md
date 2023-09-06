@@ -8,19 +8,17 @@ Summe App IA es una aplicación web que te permite resumir artículos de manera 
 
 ## Tecnología
 
-La aplicación ha sido desarrollada utilizando tecnologías de vanguardia para ofrecerte una experiencia óptima:
+La aplicación ha sido desarrollada con las siguientes tecnologías:
 
-- **React**: Utilizamos React como el marco principal para construir una interfaz de usuario altamente interactiva y amigable.
+- **React**: React como el marco principal para construir una interfaz de usuario altamente interactiva y amigable.
 
 - **Vite**: Vite se encarga de la construcción y el despliegue rápido de la aplicación, asegurando tiempos de carga mínimos y una experiencia de usuario fluida.
 
-- **Redux**: Hemos implementado Redux para gestionar el estado de la aplicación de manera eficiente, lo que permite una gestión de datos coherente y un flujo de trabajo sin problemas.
+- **Redux**: Redux para gestionar el estado de la aplicación de manera eficiente, lo que permite una gestión de datos coherente y un flujo de trabajo sin problemas.
 
-- **Tailwind CSS**: Tailwind CSS se utiliza para diseñar la interfaz de usuario, lo que nos permite lograr un diseño moderno y receptivo sin comprometer la velocidad de carga.
+- **Tailwind CSS**: Tailwind CSS se utiliza para diseñar la interfaz de usuario.
 
 ## Características Principales
 
-- **Resumen de Artículos**: Nuestra aplicación se integra con la API de Article Extractor and Summarizer para proporcionarte resúmenes precisos y concisos de artículos largos.
-
-- **Interfaz Intuitiva**: Hemos diseñado cuidadosamente una interfaz fácil de usar para que puedas navegar y utilizar la aplicación sin esfuerzo.
+- **Resumen de Artículos**: La aplicación se integra con la API de Article Extractor and Summarizer para proporcionar resúmenes precisos y concisos de artículos largos.
 
